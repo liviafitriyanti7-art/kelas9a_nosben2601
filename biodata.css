@@ -1,0 +1,37 @@
+/* mengatur gaya dasar seluruh halaman web */
+body {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black
+}
+.wadah-utama {
+    text-align:center;
+}
+.judul h1 {
+    color:black;
+
+}
+.kartu-biodata {
+    background-color:white;
+    width: 90%;
+    max-width: 400px;
+    margin:auto;
+    border-style:solid;
+    border-color:darkseagreen;
+    border-radius: 15px;
+}
+.kartu-biodata h2 {
+    background-color:darkslategrey;
+    color:seashell;
+}
+.bungkus-foto img {
+    width: 120px;
+    height: 120px;
+    border-style: solid;
+    border-color:lightsteelblue;
+    border-radius: 50%;
+}
+.informasi-diri {
+    text-align:left;
+    font-size: 14;
+}
